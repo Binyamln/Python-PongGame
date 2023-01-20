@@ -1,2 +1,8 @@
 # Python-PongGame
-pong game I made for my python class
+
+This is our project for CSE 120
+
+Authors: Bryce Woodard, Binyamin Abukar
+
+NOTE: Use Python 3.9.6
+
